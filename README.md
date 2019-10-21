@@ -1,2 +1,2 @@
 # inputFilter
-InputFilter in php7.0
+InputFilter for php7.x
